@@ -1,0 +1,7 @@
+C:\Users\Ucenik\source\repos\moj_Prvi_Zadatak\bin\Debug\moj_Prvi_Zadatak.exe.config
+C:\Users\Ucenik\source\repos\moj_Prvi_Zadatak\bin\Debug\moj_Prvi_Zadatak.exe
+C:\Users\Ucenik\source\repos\moj_Prvi_Zadatak\bin\Debug\moj_Prvi_Zadatak.pdb
+C:\Users\Ucenik\source\repos\moj_Prvi_Zadatak\obj\Debug\moj_Prvi_Zadatak.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\moj_Prvi_Zadatak\obj\Debug\moj_Prvi_Zadatak.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\moj_Prvi_Zadatak\obj\Debug\moj_Prvi_Zadatak.exe
+C:\Users\Ucenik\source\repos\moj_Prvi_Zadatak\obj\Debug\moj_Prvi_Zadatak.pdb
